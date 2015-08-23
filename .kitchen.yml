@@ -16,5 +16,5 @@ platforms:
 suites:
   - name: dfdevm_spring_ide
     run_list:
-      - recipe[dfdevm_springIDE::default]
+      - recipe[dfdevm_spring_ide::default]
     attributes:
