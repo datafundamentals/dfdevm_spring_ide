@@ -1,5 +1,5 @@
-name 'dfdevm_springIDE'
-maintainer 'The Authors'
+name 'dfdevm_spring_ide'
+maintainer 'Pete Carapetyan'
 maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures dfdevm_springIDE'

@@ -14,7 +14,7 @@ platforms:
     box_url: ~/Vagrant\ Boxes/boxcutter-VAGRANTSLASH-ubuntu1404-desktop
 
 suites:
-  - name: dfdevm_springIDE
+  - name: dfdevm_spring_ide
     run_list:
       - recipe[dfdevm_springIDE::default]
     attributes:
