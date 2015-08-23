@@ -1,0 +1,11 @@
+name 'dfdevm_springIDE'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures dfdevm_springIDE'
+long_description 'Installs/Configures dfdevm_springIDE'
+version '0.1.0'
+
+depends 'df_java'
+depends 'df_maven'
+depends 'df_spring_ide'
